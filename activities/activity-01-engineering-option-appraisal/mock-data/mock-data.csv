@@ -1,0 +1,4 @@
+option,capex_sgd,annual_savings_sgd,carbon_reduction_tco2e,water_reduction_m3,technology_readiness_1_5,compliance_risk_1_5
+Closed-loop water,780000,155000,210,48000,4,2
+Waste-heat recovery,620000,178000,690,3200,5,1
+Alternative composite,450000,92000,340,500,3,3

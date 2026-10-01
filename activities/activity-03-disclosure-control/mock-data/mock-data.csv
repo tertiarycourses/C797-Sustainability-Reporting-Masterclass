@@ -1,0 +1,6 @@
+metric,unit,owner,source,frequency,last_review,status
+Scope 1 emissions,tCO2e,Facilities,Fuel invoices,Monthly,2026-08-31,Complete
+Scope 2 emissions,tCO2e,Procurement,Utility bills,Monthly,2026-08-31,Complete
+Water withdrawal,m3,Operations,Meter exports,Monthly,2026-06-30,Stale
+Supplier screening,percent,Procurement,Supplier portal,Quarterly,2026-09-30,Estimate
+Lost-time injury rate,rate,HSE,Incident system,Monthly,2026-09-30,Complete
